@@ -1,2 +1,2 @@
-This repository contains the coding projects I had done for the California Public Sector Job Market. Unfortunately, I am unable to upload the datasets that 
-I am importing information from due to privacy reasons. 
+This repository contains the coding projects I had done for the California Public Sector Job Market. Unfortunately, I am unable to upload the datasets that I imported information from due to privacy reasons. The coding was done in R or Python via Jupyter Notebook.
+As a general summary, I cleaned and merged together datasets containing application and hiring information for California public sector jobs, created new variables 
